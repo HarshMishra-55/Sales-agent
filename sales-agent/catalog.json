@@ -1,0 +1,98 @@
+{
+  "company": "NexaSaaS",
+  "tagline": "The all-in-one B2B workflow platform",
+  "plans": [
+    {
+      "name": "Starter",
+      "price": "$49/mo",
+      "annual_price": "$470/yr",
+      "features": [
+        "5 users",
+        "API access",
+        "Email support",
+        "1 workspace",
+        "Basic analytics",
+        "5 GB storage",
+        "Community forum access"
+      ],
+      "ideal_for": "Freelancers and small teams getting started",
+      "limitations": "No SSO, no custom domains, no priority support"
+    },
+    {
+      "name": "Growth",
+      "price": "$199/mo",
+      "annual_price": "$1,910/yr",
+      "features": [
+        "25 users",
+        "API access",
+        "Webhooks",
+        "Priority support",
+        "5 workspaces",
+        "Advanced analytics",
+        "50 GB storage",
+        "Custom integrations",
+        "Role-based access control"
+      ],
+      "ideal_for": "Growing startups and mid-size teams",
+      "limitations": "No SSO, no audit logs, no SLA guarantee"
+    },
+    {
+      "name": "Enterprise",
+      "price": "$499/mo",
+      "annual_price": "$4,790/yr",
+      "features": [
+        "Unlimited users",
+        "API access",
+        "Webhooks",
+        "Dedicated support",
+        "Unlimited workspaces",
+        "Enterprise analytics + BI export",
+        "500 GB storage",
+        "SSO (SAML, OIDC)",
+        "Audit logs",
+        "SLA (99.9% uptime)",
+        "Custom contracts",
+        "On-prem deployment option",
+        "Compliance exports (SOC2, GDPR)"
+      ],
+      "ideal_for": "Large organizations with security and compliance needs",
+      "limitations": "None"
+    }
+  ],
+  "addons": [
+    {
+      "name": "Extra Storage",
+      "price": "$10/mo per 50 GB"
+    },
+    {
+      "name": "Additional Users (Growth plan)",
+      "price": "$8/user/mo"
+    },
+    {
+      "name": "White-label Branding",
+      "price": "$99/mo (Enterprise only)"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Is there a free trial?",
+      "a": "Yes, all plans come with a 14-day free trial. No credit card required."
+    },
+    {
+      "q": "Can I switch plans?",
+      "a": "Yes, you can upgrade or downgrade at any time. Prorated billing applies."
+    },
+    {
+      "q": "Does Enterprise include SSO?",
+      "a": "Yes, Enterprise includes SSO via SAML and OIDC at no extra cost."
+    },
+    {
+      "q": "What payment methods do you accept?",
+      "a": "We accept all major credit cards, ACH transfers, and invoicing for Enterprise customers."
+    },
+    {
+      "q": "Is there a setup fee?",
+      "a": "No setup fees on any plan."
+    }
+  ]
+}
